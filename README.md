@@ -98,47 +98,24 @@ contact    : anupaperera95@gmail.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupa095&theme=tokyo-night&border_radius=12&hide_border=false" alt="Activity Graph" width="100%"/>
+---
+
+## 📅 Contribution Graph
+
+<div align="center">
+
+[![Anupa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anupa095&theme=tokyo-night&border_radius=12&hide_border=false&area=true)](https://github.com/anupa095)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 🧠 Currently Learning & Exploring
-
-<div align="center">
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💬 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-A78BFA?style=for-the-badge)](https://anupa.dev)
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:anupaperera95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/anupa-perera-154a66270)
 

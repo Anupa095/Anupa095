@@ -75,17 +75,6 @@ contact    : anupaperera95@gmail.com
 
 ---
 
-## 🏆 Certificates & Achievements
-
-| 🏅 Certificate | 🏛️ Institution | 📅 Year |
-|---|---|---|
-| 🏅 18th International Research Conference | General Sir John Kotelawala Defence University (KDU) | 2025 |
-| 🏆 SLIIT CodeFest 2025 — **Top 10** | Sri Lanka Institute of Information Technology (SLIIT) | 2025 |
-| 🖥️ Computer Hardware Basics | Cisco Networking Academy | 2023 |
-| 🌐 Introduction to Networks — CCNAv7 | Cisco Networking Academy | 2023 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

@@ -24,7 +24,7 @@
 
 ```yaml
 name       : Anupa Perera
-location   : Sri Lanka-Colombo
+location   : Sri Lanka 🇱🇰 — Colombo
 education  : BSc (Hons) Information Technology — KDU
 focus      : Full-Stack Development | Mobile Apps | AI Integration
 contact    : anupaperera95@gmail.com
@@ -101,6 +101,20 @@ contact    : anupaperera95@gmail.com
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupa095&theme=tokyo-night&border_radius=12&hide_border=false" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Anupa095/Anupa095/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 

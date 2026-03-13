@@ -24,18 +24,16 @@
 
 ```yaml
 name       : Anupa Perera
-location   : Sri Lanka 🇱🇰
+location   : Sri Lanka-Colombo
 education  : BSc (Hons) Information Technology — KDU
 focus      : Full-Stack Development | Mobile Apps | AI Integration
-currently  : Building PetHub — Smart Pet Care Platform 🐾
 contact    : anupaperera95@gmail.com
 ```
 
 - 🎓 Undergraduate at **General Sir John Kotelawala Defence University (KDU)**
 - 💻 Passionate about building **modern, scalable & user-friendly** applications
 - 🤖 Exploring **AI integration** in real-world applications
-- 🚀 Currently working on **PetHub – Smart Pet Care Platform**
-- ⚡ Fun fact: I turn coffee ☕ into clean code!
+- ⚡ Fun fact: When I'm not coding, I enjoy playing indoor cricket 🏏
 
 ---
 
@@ -75,110 +73,6 @@ contact    : anupaperera95@gmail.com
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐾 PetHub — Smart Pet Care Platform
-> *Final Year Project*
-
-Full-stack AI-powered pet care platform with smart features for modern pet owners.
-
-**✨ Features:**
-- 🤖 AI chatbot & meal planner
-- 📍 Nearest vet/hospital finder
-- 🏨 Hostel recommendations
-- 💉 Vaccination tracker
-- 📱 Social media network
-
-**🔧 Tech Stack:**
-`Java Spring Boot` `React Native` `PostgreSQL` `AI/ML` `REST API`
-
-[![View Project](https://img.shields.io/badge/View_Project-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-<td width="50%">
-
-### 🚗 Vehicle Service Booking App
-> *Cross-Platform Application*
-
-Full-stack service booking platform with Flutter mobile app and React web admin panel.
-
-**✨ Features:**
-- 📅 Service appointment booking
-- 👨‍💼 Admin dashboard
-- 🔔 Real-time notifications
-- 📊 Analytics panel
-
-**🔧 Tech Stack:**
-`Flutter` `Dart` `Firebase` `React` `REST API`
-
-[![View Project](https://img.shields.io/badge/View_Project-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏢 Employee Management System
-> *Enterprise HR System — Softlogic*
-
-Modern admin dashboard for managing employees, payroll, and performance.
-
-**🔧 Tech Stack:**
-`Java` `Spring Boot` `React` `MySQL`
-
-[![View Project](https://img.shields.io/badge/View_Project-34d399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-<td width="50%">
-
-### 📱 BMI & Health Tracker App
-> *Android Mobile Application*
-
-Clean mobile app for tracking BMI and body health metrics with history and charts.
-
-**🔧 Tech Stack:**
-`Java` `Android` `Firebase`
-
-[![View Project](https://img.shields.io/badge/View_Project-f9a8d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚌 School Transport Management
-> *Web Application*
-
-End-to-end school bus management — route planning, driver assignment & parent notifications.
-
-**🔧 Tech Stack:**
-`C#` `.NET` `Web`
-
-[![View Project](https://img.shields.io/badge/View_Project-60a5fa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-<td width="50%">
-
-### 🔥 Python Firewall & Security Tools
-> *Cybersecurity Project*
-
-Network-level firewall and packet inspection utilities with automation scripts.
-
-**🔧 Tech Stack:**
-`Python` `Networking` `Security`
-
-[![View Project](https://img.shields.io/badge/View_Project-fb923c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
-
-</td>
-</tr>
-</table>
 
 ---
 

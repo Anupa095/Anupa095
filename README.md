@@ -1,134 +1,241 @@
-<h1 align="center">
-  Hi 👋, I'm 
-  <span style="background: linear-gradient(90deg,#a78bfa,#f472b6);
-  -webkit-background-clip:text;
-  -webkit-text-fill-color:transparent;">
-  Anupa Perera
-  </span>
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web+%26+Mobile+Application+Developer;AI+Integration+Enthusiast;Creative+Problem+Solver;IT+Undergraduate&center=true&width=500&height=45">
-</p>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm
 
-<h3 align="center">
-🚀 Full-Stack Developer | Mobile App Developer | Sri Lanka
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Anupa+Perera" alt="Anupa Perera" />
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&pause=800&color=F472B6&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+%26+Mobile+App+Developer;AI+Integration+Enthusiast;Creative+Problem+Solver;BSc+(Hons)+IT+Undergraduate" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupa-perera-154a66270)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/anupa%20sandeepa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupa_03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupaperera95@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://anupa.dev)
+
+<img src="https://komarev.com/ghpvc/?username=anupa095&label=Profile+Views&color=a78bfa&style=flat" alt="profile views" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **BSc (Hons) in Information Technology Undergraduate**  
-📍 General Sir John Kotelawala Defence University (KDU)
+```yaml
+name       : Anupa Perera
+location   : Sri Lanka 🇱🇰
+education  : BSc (Hons) Information Technology — KDU
+focus      : Full-Stack Development | Mobile Apps | AI Integration
+currently  : Building PetHub — Smart Pet Care Platform 🐾
+contact    : anupaperera95@gmail.com
+```
 
-💻 Passionate about building **modern, scalable and user-friendly applications**
-
-⚡ Experienced in:
-
-- Full Stack Web Development
-- Mobile Application Development
-- REST API Development
-- AI integration in applications
-
-🚀 Currently working on **PetHub – Smart Pet Care Platform**
-
-📫 Reach me: **anupaperera95@gmail.com**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/anupa perera">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://fb.com/anupa sandeepa">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="https://instagram.com/anupa_03">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
+- 🎓 Undergraduate at **General Sir John Kotelawala Defence University (KDU)**
+- 💻 Passionate about building **modern, scalable & user-friendly** applications
+- 🤖 Exploring **AI integration** in real-world applications
+- 🚀 Currently working on **PetHub – Smart Pet Care Platform**
+- ⚡ Fun fact: I turn coffee ☕ into clean code!
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,nodejs,js,python,dart,flutter,mysql,postgres,mssql,androidstudio,postman,git,github,vscode"/>
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-</p>
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-✔ **PostgreSQL added**  
-✔ Clean professional icon layout
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🐾 PetHub – Smart Pet Care Platform
+<table>
+<tr>
+<td width="50%">
 
-Full-stack pet care application with AI chatbot support.
+### 🐾 PetHub — Smart Pet Care Platform
+> *Final Year Project*
 
-**Tech Stack**
+Full-stack AI-powered pet care platform with smart features for modern pet owners.
 
-- React Native
-- Spring Boot
-- PostgreSQL
-- REST APIs
+**✨ Features:**
+- 🤖 AI chatbot & meal planner
+- 📍 Nearest vet/hospital finder
+- 🏨 Hostel recommendations
+- 💉 Vaccination tracker
+- 📱 Social media network
 
----
+**🔧 Tech Stack:**
+`Java Spring Boot` `React Native` `PostgreSQL` `AI/ML` `REST API`
+
+[![View Project](https://img.shields.io/badge/View_Project-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
+
+</td>
+<td width="50%">
+
+### 🚗 Vehicle Service Booking App
+> *Cross-Platform Application*
+
+Full-stack service booking platform with Flutter mobile app and React web admin panel.
+
+**✨ Features:**
+- 📅 Service appointment booking
+- 👨‍💼 Admin dashboard
+- 🔔 Real-time notifications
+- 📊 Analytics panel
+
+**🔧 Tech Stack:**
+`Flutter` `Dart` `Firebase` `React` `REST API`
+
+[![View Project](https://img.shields.io/badge/View_Project-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏢 Employee Management System
+> *Enterprise HR System — Softlogic*
 
-Modern admin dashboard for managing employees and departments.
+Modern admin dashboard for managing employees, payroll, and performance.
 
-**Tech**
+**🔧 Tech Stack:**
+`Java` `Spring Boot` `React` `MySQL`
 
-- React
-- Spring Boot
-- MySQL
+[![View Project](https://img.shields.io/badge/View_Project-34d399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
 
----
+</td>
+<td width="50%">
 
 ### 📱 BMI & Health Tracker App
+> *Android Mobile Application*
 
-Mobile application to track health metrics.
+Clean mobile app for tracking BMI and body health metrics with history and charts.
 
-**Tech**
+**🔧 Tech Stack:**
+`Java` `Android` `Firebase`
 
-- Android
-- Firebase
-- Java
+[![View Project](https://img.shields.io/badge/View_Project-f9a8d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚌 School Transport Management
+> *Web Application*
+
+End-to-end school bus management — route planning, driver assignment & parent notifications.
+
+**🔧 Tech Stack:**
+`C#` `.NET` `Web`
+
+[![View Project](https://img.shields.io/badge/View_Project-60a5fa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
+
+</td>
+<td width="50%">
+
+### 🔥 Python Firewall & Security Tools
+> *Cybersecurity Project*
+
+Network-level firewall and packet inspection utilities with automation scripts.
+
+**🔧 Tech Stack:**
+`Python` `Networking` `Security`
+
+[![View Project](https://img.shields.io/badge/View_Project-fb923c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupa095)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Certificates & Achievements
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupa095&theme=tokyonight"/>
-
-</p>
+| 🏅 Certificate | 🏛️ Institution | 📅 Year |
+|---|---|---|
+| 🏅 18th International Research Conference | General Sir John Kotelawala Defence University (KDU) | 2025 |
+| 🏆 SLIIT CodeFest 2025 — **Top 10** | Sri Lanka Institute of Information Technology (SLIIT) | 2025 |
+| 🖥️ Computer Hardware Basics | Cisco Networking Academy | 2023 |
+| 🌐 Introduction to Networks — CCNAv7 | Cisco Networking Academy | 2023 |
 
 ---
 
-# 🧠 Current Focus
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupa095&theme=tokyo-night&border_radius=12&hide_border=false" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning & Exploring
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-A78BFA?style=for-the-badge)](https://anupa.dev)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:anupaperera95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/anupa-perera-154a66270)
+
+---
+
+*Made with ❤️ by Anupa Perera · Sri Lanka 🇱🇰*
+
+</div>

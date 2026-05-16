@@ -77,14 +77,20 @@ contact    : anupaperera95@gmail.com
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&show_icons=true&locale=en&border_radius=12&hide_border=false&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
+<table>
+  <tr>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" /></td>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" /></td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 

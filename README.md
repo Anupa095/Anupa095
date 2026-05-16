@@ -79,7 +79,7 @@ contact    : anupaperera95@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&show_icons=true&locale=en&border_radius=12&hide_border=false&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
 
 <br/><br/>

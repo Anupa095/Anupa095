@@ -77,20 +77,22 @@ contact    : anupaperera95@gmail.com
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <table>
   <tr>
-    <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" /></td>
-    <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" /></td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&locale=en" alt="Anupa's GitHub Stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&count_private=true&langs_count=10" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=anupa095&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
 
 </div>
 

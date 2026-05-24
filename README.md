@@ -1,19 +1,24 @@
 <div align="center">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm
-
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=70000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Anupa+Perera" alt="Anupa Perera" />
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&pause=800&color=F472B6&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+%26+Mobile+App+Developer;AI+Integration+Enthusiast;Creative+Problem+Solver;BSc+(Hons)+IT+Undergraduate" alt="Typing SVG" />
+<!--  BANNER  -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Anupa%20Perera&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=c4b5fd&descSize=16&animation=fadeIn" alt="Header Banner"/>
+</picture>
 
 <br/>
 
+<!-- BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=anupa095&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/anupa095?label=FOLLOWERS&style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/anupa095?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/anupa095?label=STARS&style=flat-square&color=7c3aed&labelColor=1a1a2e)](https://github.com/anupa095)
+
+<br/>
+
+<!-- SOCIAL LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupa-perera-154a66270)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/anupa%20sandeepa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupa_03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupaperera95@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://anupa.dev)
-
-<img src="https://komarev.com/ghpvc/?username=anupa095&label=Profile+Views&color=a78bfa&style=flat" alt="profile views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://anupa.dev)
 
 </div>
 
@@ -81,7 +86,7 @@ contact    : anupaperera95@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" alt="Anupa's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -101,11 +106,19 @@ contact    : anupaperera95@gmail.com
 
 ---
 
+<div align="center">
+
 ### 💬 Let's Build Something Amazing Together!
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:anupaperera95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/anupa-perera-154a66270)
 
----
+<br/>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer&animation=fadeIn" alt="Footer"/>
+</picture>
 
 *Made with ❤️ by Anupa Perera · Sri Lanka 🇱🇰*
+
+</div>

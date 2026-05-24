@@ -22,11 +22,11 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name       : Anupa Perera
-location   : Sri Lanka 🇱🇰 — Colombo
-education  : BSc (Hons) Information Technology — KDU
-focus      : Full-Stack Development | Mobile Apps | AI Integration
-contact    : anupaperera95@gmail.com
+name       : Anupa Perera
+location   : Sri Lanka 🇱🇰 — Colombo
+education  : BSc (Hons) Information Technology — KDU
+focus      : Full-Stack Development | Mobile Apps | AI Integration
+contact    : anupaperera95@gmail.com
 ```
 
 - 🎓 Undergraduate at **General Sir John Kotelawala Defence University (KDU)**
@@ -79,8 +79,9 @@ contact    : anupaperera95@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" alt="Anupa's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -100,8 +101,6 @@ contact    : anupaperera95@gmail.com
 
 ---
 
-
-
 ### 💬 Let's Build Something Amazing Together!
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:anupaperera95@gmail.com)
@@ -110,6 +109,3 @@ contact    : anupaperera95@gmail.com
 ---
 
 *Made with ❤️ by Anupa Perera · Sri Lanka 🇱🇰*
-
-</div>
-

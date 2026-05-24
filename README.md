@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:130a2e,60:1a0a3a,100:0d0d1a&height=280&section=header&text=Anupa%20Perera&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=62&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010103,30:04010c,60:060215,100:010103&height=280&section=header&text=Anupa%20Perera&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=62&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=const+dev+%3D+new+AnupaPerera()%3B;dev.build(%22amazing+apps%22)%3B;dev.learn(%22AI+%26+Machine+Learning%22)%3B;dev.ship(%22production+ready+code%22)%3B" alt="Typing SVG"/>
@@ -155,7 +155,7 @@ const anupa: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:130a2e,60:1a0a3a,100:0d0d1a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010103,30:04010c,60:060215,100:010103&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *Crafted with ❤️ &nbsp;·&nbsp; Anupa Perera &nbsp;·&nbsp; Sri Lanka 🇱🇰*
 

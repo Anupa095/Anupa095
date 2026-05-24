@@ -51,7 +51,7 @@ const anupa: Developer = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=donut&theme=tokyonight&border_radius=16&hide_border=true&langs_count=8" width="280"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupa095&theme=tokyonight" width="280"/>
 
 - 🎓 Undergraduate at **KDU** reading BSc (Hons) Information Technology
 - 🔭 Currently building **full-stack & mobile** applications
@@ -110,9 +110,17 @@ const anupa: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+<!-- Stats + Top Langs using github-stats.vercel.app (reliable alternative) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupa095&theme=tokyonight" height="175"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupa095&theme=tokyonight&border_radius=16&hide_border=true" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupa095&theme=tokyonight" height="175"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anupa095&theme=tokyonight" height="175"/>
+
+<br/><br/>
+
+<!-- Streak using git.io/streak-stats (most stable) -->
+<img src="https://streak-stats.demolab.com/?user=anupa095&theme=tokyonight&border_radius=16&hide_border=true&date_format=j%20M%5B%20Y%5D" height="175"/>
 
 <br/><br/>
 

@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupa095&theme=tokyonight" height="165"/>
 
 </div>

@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupa-perera-154a66270)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anupaperera95@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://anupa.dev)
 
 </div>
 
@@ -57,12 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anupa095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupa095&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=anupa095&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anupa095&theme=tokyonight" width="450"/>
 
 </div>
 
@@ -74,6 +68,5 @@
 
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anupaperera95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupa-perera-154a66270)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://anupa.dev)
 
 </div>
